@@ -1,0 +1,9 @@
+1,Johnny,Labrador,5,https://www.wowwow.ro/labrador-retriever-caine/2155
+3,Ice,Husky,3,https://www.wowwow.ro/husky-caine/2152
+4,Sarah,Golden Retriever,5,https://www.wowwow.ro/golden-retriever-caine/2151
+5,Killer,Chihuahua,3,https://www.wowwow.ro/chihuahua-caine/2143
+6,Aurelian,Labrador,6,https://www.wowwow.ro/labrador-retriever-caine/2155
+7,Ilie,German Shepherd,10,https://www.wowwow.ro/ciobanesc-german-caine/2145
+8,Dash,Labrador,4,https://www.wowwow.ro/labrador-retriever-caine/2155
+9,Tara,Doberman,7,https://www.wowwow.ro/doberman-caine/2149
+10,Rita,Corgi,2,https://www.wowwow.ro/welsh-corgi-pembroke-caine/2332
